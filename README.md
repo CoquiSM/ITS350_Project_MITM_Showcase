@@ -14,3 +14,8 @@ Things showcased:
 - Simulated Blue Team and Red Team Ops <-- Attacker sees, Defender conceals
 - Tenants of Cryptography and how violating those tenants makes cryptograhy meaningless
 - Threat awareness and general cybersecurity
+
+###################################################################
+
+Alice and Bob files denote the two people communicating over a Network
+Sebastian files denote the attacker (me) intercepting communications and staging MITM
