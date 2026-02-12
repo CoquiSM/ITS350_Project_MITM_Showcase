@@ -1,4 +1,4 @@
-# ITS350_Projects
+# ITS350_Project
 This Repository is for ITS350 Class where we had to combine elements of cryptography we learned through the semester and make a presentation on how it works.
 
 What was the project?
