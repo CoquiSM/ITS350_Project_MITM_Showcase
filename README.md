@@ -3,7 +3,7 @@ This Repository is for ITS350 Class where we had to combine elements of cryptogr
 
 What was the project?
 The project I decided to showcase was a Man In The Middle Attack, I wanted to show to my peers in class and my proffessor I understood how to 
-catch unecryoted dat streams over a net and how adding layers of encryption made it difficult for the attacker to discern messages.
+catch unencrypted data streams over a net and how adding layers of encryption made it difficult for the attacker to discern messages.
 
 Things showcased:
 - Key exchanges between person A and person B
