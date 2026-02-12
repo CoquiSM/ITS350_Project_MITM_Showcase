@@ -15,7 +15,11 @@ Things showcased:
 - Tenants of Cryptography and how violating those tenants makes cryptograhy meaningless
 - Threat awareness and general cybersecurity
 
-###################################################################
+#########################################################################
+**FILE NAMES EXPLANATION**
 
 Alice and Bob files denote the two people communicating over a Network
-Sebastian files denote the attacker (me) intercepting communications and staging MITM
+Sebastian files denote the attacker (me) intercepting communications
+and staging MITM.
+
+########################################################################
