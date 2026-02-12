@@ -5,7 +5,7 @@ import binascii
 from Crypto.Cipher import AES
 from Crypto.Random import get_random_bytes
 
-BOB_HOST = "172.16.216.128"   # Sebastian (MITM)
+BOB_HOST = "172.xxx.xxx.xxx"   # Sebastian (MITM)
 BOB_PORT = 5000
 
 MAC_KEY = b"very_secret_mac_key"  # shared only by Alice & Bob
